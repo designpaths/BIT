@@ -485,20 +485,20 @@ body, #container-wrap { background:#ededed; }
 #item1330 {
 	width:44px !important;
 	height:44px !important;
-	left:507px !important;
+	left:485px !important;
 	top:638px !important;
-}
-
-#item1017 {
-	width:485px !important;
-	height:236px !important;
-	left:22px !important;
-	top:418px !important;
 }
 
 #item3000 {
 	width:750px !important;
 	height:422px !important;
 	top:744px !important;
+}
+
+#item1017 {
+	width:364px !important;
+	height:220px !important;
+	left:22px !important;
+	top:418px !important;
 }
 #in5footer,  #prefooter {display:none;}
